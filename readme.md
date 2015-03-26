@@ -36,7 +36,7 @@ Le chiamate devono essere in grado di operare con JSON, sia in input che in outp
       "richiedenti" : [
         {
         	"id"      : Integer,
-                "nome"    : String,
+            "nome"    : String,
         	"data"    : String (ISO 8601),
         	"budget"  : Number,
         	"oggetti" : [
